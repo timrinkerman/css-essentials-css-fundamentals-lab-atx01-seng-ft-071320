@@ -40,6 +40,7 @@ figure{
 
 #details > div{
   background-color: red;
+  margin:auto;
   float:left; 
   width:25%;
   align-items: center
