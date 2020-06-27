@@ -36,6 +36,7 @@ figure{
  }
 
 #details{
+  display: block;
   justify-content: center
   
 }
