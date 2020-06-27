@@ -37,8 +37,8 @@ figure{
 
 #details{
   display: block;
-  justify-content: center
-  
+  justify-content: center;
+  margin: 0 auto 0 auto
 }
 #details > div{
   
