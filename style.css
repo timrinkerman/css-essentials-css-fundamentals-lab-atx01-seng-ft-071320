@@ -37,7 +37,7 @@ figure{
 
 
 #details > div{
-  
+  align-items: center;
   display: flex;
   align-content: center;
   width: 25%
