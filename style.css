@@ -42,5 +42,5 @@ figure{
   background-color: red;
   float:left; 
   width:25%;
-  
+  align-items: center
 }
