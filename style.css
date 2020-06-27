@@ -39,7 +39,7 @@ figure{
 #details > div{
   
   display: inline-block;
-  
+  align-items: center;
   
   width: 25%
 }
