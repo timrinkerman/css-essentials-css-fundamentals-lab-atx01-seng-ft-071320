@@ -35,7 +35,8 @@ figure{
    
  }
 
-#details{
+#details > div{
+  
   display: inline-block
   
   
