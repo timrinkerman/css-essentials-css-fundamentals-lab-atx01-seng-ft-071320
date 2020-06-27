@@ -35,14 +35,11 @@ figure{
    
  }
 
-#details{
-  display: block;
-  justify-content: center;
-  margin: 0 auto 0 auto
-}
+
 #details > div{
   
   display: inline-block;
-  text-align: center
-  
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto 0 auto
 }
