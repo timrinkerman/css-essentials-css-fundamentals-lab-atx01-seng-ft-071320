@@ -35,6 +35,10 @@ figure{
    
  }
 
+#details{
+  justify-content: center
+  
+}
 #details > div{
   
   display: inline-block;
